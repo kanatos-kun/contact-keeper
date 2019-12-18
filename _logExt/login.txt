@@ -1,0 +1,11 @@
+Mongodo-contact keeper 
+--------------------------
+login : jojoffrey123
+mdp : jojoffrey123
+
+
+(mongo shell)
+mongo "mongodb+srv://contact-keeper-rihcf.mongodb.net/test"  --username jojoffrey123
+
+(nodeJs)
+mongodb+srv://jojoffrey123:<password>@contact-keeper-rihcf.mongodb.net/test?retryWrites=true&w=majority
