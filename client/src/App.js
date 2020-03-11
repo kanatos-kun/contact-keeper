@@ -6,6 +6,7 @@ import About from "./component/pages/About";
 import Register from "./component/auth/Register";
 import Login from "./component/auth/Login";
 import Alerts from "./component/layout/Alerts";
+import PrivateRoute from "./component/routing/PrivateRoute";
 
 // import "./lib/fontawesome/js/all.min.js";
 import NavBar from "./component/layout/NavBar";
@@ -30,7 +31,7 @@ const App = () => {
               <div className="container">
                 <Alerts />
                 <Switch>
-                  <Route exact path="/" component={Home} />
+                  <PrivateRoute exact path="/" component={Home} />
                   <Route exact path="/about" component={About} />
                   <Route exact path="/register" component={Register} />
                   <Route exact path="/login" component={Login} />
