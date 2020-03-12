@@ -1,8 +1,13 @@
-Mongodo-contact keeper 
+Mongodo-contact keeper
 --------------------------
 login : jojoffrey123
 mdp : jojoffrey123
 
+
+identifiant dumb
+--------------------------
+login : sam@gmail.com
+mdp : 123456789
 
 (mongo shell)
 mongo "mongodb+srv://contact-keeper-rihcf.mongodb.net/test"  --username jojoffrey123
