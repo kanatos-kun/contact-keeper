@@ -31,5 +31,4 @@ yarn-error.log*
 /src/lib/fontawesome/scss
 /src/lib/fontawesome/sprites
 /src/lib/fontawesome/svgs
-/src/lib/fontawesome/webfonts
 /src/lib/fontawesome/LICENSE.txt
