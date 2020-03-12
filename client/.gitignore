@@ -24,4 +24,12 @@ yarn-debug.log*
 yarn-error.log*
 
 #fontawesome
-/src/lib/fontawesome
+/src/lib/fontawesome/fontawesome-free-5.12.0-web
+/src/lib/fontawesome/js
+/src/lib/fontawesome/less
+/src/lib/fontawesome/metadata
+/src/lib/fontawesome/scss
+/src/lib/fontawesome/sprites
+/src/lib/fontawesome/svgs
+/src/lib/fontawesome/webfonts
+/src/lib/fontawesome/LICENSE.txt
