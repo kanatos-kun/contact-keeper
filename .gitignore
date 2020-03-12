@@ -1,2 +1,4 @@
 node_modules/
 _logExt
+help-list.md
+.jshintrc

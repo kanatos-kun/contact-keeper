@@ -8,6 +8,8 @@ identifiant dumb
 --------------------------
 login : sam@gmail.com
 mdp : 123456789
+Login : Jojoffrey@gmail.com
+mdp: 8bv884ezgxv4c
 
 (mongo shell)
 mongo "mongodb+srv://contact-keeper-rihcf.mongodb.net/test"  --username jojoffrey123
