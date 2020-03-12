@@ -8,7 +8,7 @@ const Home = props => {
 
   useEffect(() => {
     authContext.loadUser();
-    //islint-disable-next-line
+    //eslint-disable-next-line
   }, []);
   return (
     <div className="grid-2">

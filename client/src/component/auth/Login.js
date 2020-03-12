@@ -1,5 +1,5 @@
 import React, { useState, useContext, useEffect } from "react";
-import PropTypes from "prop-types";
+// import PropTypes from "prop-types";
 import AlertContext from "../../context/alert/AlertContext";
 import AuthContext from "../../context/auth/AuthContext";
 
