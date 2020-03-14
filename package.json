@@ -1,6 +1,7 @@
 {
   "name": "contact_keeper_api",
   "version": "1.0.0",
+  "type": "module",
   "description": "Backend for Contact Keeper app",
   "main": "server.js",
   "scripts": {
